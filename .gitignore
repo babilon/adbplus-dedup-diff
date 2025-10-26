@@ -1,0 +1,14 @@
+tests/test_*
+*.sw[a-z]
+*.real
+*.o
+*.gch
+*.nogit
+*.nogit.*
+*.gcno
+*.gcda
+.tags
+.cache/
+.ccls-cache/
+/scan-build/
+/lcov-output/

@@ -1,0 +1,20 @@
+!
+! a.txt vs b.txt
+!
+! + indicates entry is in a.txt AND overrides one or more entries in b.txt
+! - indicates entry is in b.txt AND was overriden by an entry in a.txt
+! a indicates entry is in a.txt ONLY and is omitted/dropped
+! b indicates entry is in b.txt ONLY and is included
+!
++ ||smetrics.abbott^
+- ||b.smetrics.abbott^
+- ||c.smetrics.abbott^
+a ||stat.arzamas.academy^
+  ||professorpips.academy^
+  ||posthog-eu-api.thenational.academy^
++ ||live.aco^
+- ||a.live.aco^
+- ||b.live.aco^
++ ||working.actor^
+- ||mollusk.working.actor^
+b ||snap.ac^

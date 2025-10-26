@@ -1,0 +1,3 @@
+SRC_TESTS_SOURCE := test.c \
+
+SRCTEST += $(addprefix src/tests/, $(SRC_TESTS_SOURCE))

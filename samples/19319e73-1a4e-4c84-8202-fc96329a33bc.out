@@ -1,0 +1,439 @@
+[Adblock Plus 2.0]
+! ----------------------------------------------------------------------------
+!         _____  _________  _____________  _______          
+!        / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \         
+!       / _//    / _// , _/ (_ // /  / /_/ _// // /         
+!      /___/_/|_/___/_/|_|\___/___/_/___/___/____/__  _  __ 
+!     / _ \/ _ \/ __ \/_  __/ __/ ___/_  __/  _/ __ \/ |/ / 
+!    / ___/ , _/ /_/ / / / / _// /__  / / _/ // /_/ /    /  
+!   /_/  /_/|_|\____/ /_/ /___/\___/ /_/ /___/\____/_/|_/   
+! 
+!   Let's make an annoyance-free better open internet. Altogether.
+! ----------------------------------------------------------------------------
+!   energized.pro | github.com/EnergizedProtection/block
+! ----------------------------------------------------------------------------
+! 
+! ----------------------------------------------------------------------------
+!   [⚡︎] P A C K  D E T A I L S
+! ----------------------------------------------------------------------------
+! Title:         Social (Ext.)
+! Description:   Comprehensive social media blocking.
+! URL:           https://energized.pro/social/adblock.txt
+! Author:        Ador <mail@ador.com.bd>
+! License:       MIT
+! Format:        adblock
+! Entries:       14,163
+! Version:       0.100.a.25.273.18
+! Expires:       1 day (update frequency)
+! Releasae:      25.273.18
+! Last modified: 2025-09-30T18:10:47.032369 UTC
+! Source:        https://github/EnergizedProtection/block
+! Issue:         https://github/EnergizedProtection/block/issues
+! ----------------------------------------------------------------------------
+!   [⚡︎] F E A T U R E S
+! ----------------------------------------------------------------------------
+! _domain_based  : based on domains.
+! _any_device    : seamlessly compatible with all your devices.
+! _blockings     : strictly banishes all web annoyances.
+! _formats       : supports the most popular, user-friendly formats.
+! _speed         : reduces web content loading time.
+! _privacy       : increases privacy.
+! _saves_data    : decreases data consumption.
+! _clean         : no clutter. just a pure, streamlined experience.
+! ----------------------------------------------------------------------------
+!   [⚡︎] E N E R G I Z E D  P R O T E C T I O N  B E G I N S
+! ----------------------------------------------------------------------------
+! ----------------------------------------------------------------------------
+!   [⚡︎] E N E R G I Z E D  P R O T E C T I O N  E N D S
+! ----------------------------------------------------------------------------
+! 
+! DISCLAIMER: The domains included in this block list are provided "as is"
+! and are for informational purposes only. By  utilizing  this block list,
+! you acknowledge that you are doing so at your own risk.
+!  
+! We are not liable for any issues that may arise from the use of this list. 
+! We highly recommend creating a backup of  your system and settings before
+! proceeding with any changes.
+! 
+! In case of any issues, please refer to the official issue tracker 
+! at: https://github/EnergizedProtection/block/issues
+! 
+! This list is intended solely for blocking unwanted domains and improving 
+! your browsing experience.   Any  misuse  or  unintended consequences are 
+! solely the responsibility of the user. 
+! We advise thorough testing and review before deployment.
+! 
+! Thank you for using Energized Protection. 
+! Your support helps create a safer, cleaner internet for all.
+! 
+! ----------------------------------------------------------------------------
+||instagr.am^
+||bsky.app^
+||tiktokmusic.app^
+||facebook.at^
+||facebook.com.au^
+||www.pinterest.com.au^
+||facebook.be^
+||facebook.com.br^
+||instagram.com.br^
+||facebook.ca^
+||www.pinterest.ch^
+||musemuse.cn^
+||clover.co^
+||facebook.co^
+||hinge.co^
+||instagram.co^
+||t.co^
+||twitter.co^
+||twitch.a2z.com^
+||addthiscdn.com^
+||static.addtoany.com^
+||ads-twitter.com^
+||allotalk.com^
+||filamentapp.s3.amazonaws.com^
+||filamentapp-assets.s3.amazonaws.com^
+||reddit-image.s3.amazonaws.com^
+||redditgifts.s3.amazonaws.com^
+||reddit-uploaded-media.s3-accelerate.amazonaws.com^
+||reddit-uploaded-video.s3-accelerate.amazonaws.com^
+||facebook-web-clients.appspot.com^
+||badoo.com^
+||share.baidu.com^
+||widgets.bufferapp.com^
+||bumble.com^
+||dm.bytedance.com^
+||byteglb.com^
+||p1-tt.byteimg.com^
+||p1-tt-ipv6.byteimg.com^
+||p26-tt.byteimg.com^
+||p3-tt-ipv6.byteimg.com^
+||p9-tt.byteimg.com^
+||abtest-sg-tiktok.byteoversea.com^
+||abtest-va-tiktok.byteoversea.com^
+||dm-maliva16.byteoversea.com^
+||mon.byteoversea.com^
+||mon-va.byteoversea.com^
+||verification-va.byteoversea.com^
+||xlog-va.byteoversea.com^
+||cdninstagram.com^
+||changetip.com^
+||coffeemeetsbagel.com^
+||twitter.countoon.com^
+||datememe.com^
+||jsoon.digitiminimi.com^
+||share.donreach.com^
+||douyin.com^
+||facebook.com^
+||facebook-studio.com^
+||fb.com^
+||fbcdn.com^
+||fbsbx.com^
+||platform.foursquare.com^
+||freebasics.com^
+||friends2follow.com^
+||getbtn.com^
+||widgets.getpocket.com^
+||plusone.google.com^
+||happn.com^
+||my.hellobar.com^
+||hn-button.herokuapp.com^
+||p16.hypstarcdn.com^
+||ibytedtos.com^
+||p16-ad-sg.ibyteimg.com^
+||p16-tiktok-sg.ibyteimg.com^
+||p16-tiktok-sign-va-h2.ibyteimg.com^
+||p16-tiktok-va.ibyteimg.com^
+||p16-tiktok-va-h2.ibyteimg.com^
+||p16-va-tiktok.ibyteimg.com^
+||instagram.com^
+||widget.instodom.com^
+||sf16-ttcdn-tos.ipstatp.com^
+||isnssdk.com^
+||joinclubhouse.com^
+||sumome-140a.kxcdn.com^
+||lessbuttons.com^
+||dms.licdn.com^
+||dms-akam.licdn.com^
+||media.licdn.com^
+||media-akam.licdn.com^
+||media-exp1.licdn.com^
+||media-exp3.licdn.com^
+||snap.licdn.com^
+||static.licdn.com^
+||static-akam.licdn.com^
+||static-azur.licdn.com^
+||static-od.licdn.com^
+||www.licdn.com^
+||likebtn.com^
+||linkedin.com^
+||www.mastofeed.com^
+||match.com^
+||messenger.com^
+||muscdn.com^
+||myspace.com^
+||myspacecdn.com^
+||okcupid.com^
+||pinimg.com^
+||pinterest.com^
+||pof.com^
+||pull-f5-hs.flive.pstatp.com^
+||pull-f3-hs.pstatp.com^
+||pull-f5-hs.pstatp.com^
+||pull-f5-mus.pstatp.com^
+||pull-flv-f1-hs.pstatp.com^
+||pull-flv-f6-hs.pstatp.com^
+||pull-flv-l1-hs.pstatp.com^
+||pull-flv-l1-mus.pstatp.com^
+||pull-flv-l6-hs.pstatp.com^
+||pull-hls-l1-mus.pstatp.com^
+||pull-l3-hs.pstatp.com^
+||pull-rtmp-f1-hs.pstatp.com^
+||pull-rtmp-f6-hs.pstatp.com^
+||pull-rtmp-l1-hs.pstatp.com^
+||pull-rtmp-l1-mus.pstatp.com^
+||pull-rtmp-l6-hs.pstatp.com^
+||sf1-ttcdn-tos.pstatp.com^
+||sf6-ttcdn-tos.pstatp.com^
+||widget.pushbullet.com^
+||quora.com^
+||reddit.com^
+||reddit-stream.com^
+||redditblog.com^
+||redditgifts.com^
+||www.redditinc.com^
+||redditmedia.com^
+||www.redditstatic.com^
+||i.reddituploads.com^
+||sc-gw.com^
+||sgsnssdk.com^
+||shareaholic.com^
+||sharethis.com^
+||snapchat.com^
+||snapwidget.com^
+||taboolasyndication.com^
+||tgwidget.com^
+||thefacebook.com^
+||tiktok.com^
+||tiktokcdn.com^
+||tiktokcdn-eu.com^
+||tiktokcdn-in.com^
+||tiktokcdn-us.com^
+||tiktokglobalshop.com^
+||tiktokglobalshopv.com^
+||tiktokrow-cdn.com^
+||tiktokshop.com^
+||tiktokstaticb.com^
+||tiktokv.com^
+||tinder.com^
+||tlivecdn.com^
+||tiktokcdn.com.tlivepush.com^
+||ttapis.com^
+||ttdns2.com^
+||ttlivecdn.com^
+||ttwstatic.com^
+||tumblr.com^
+||a0.twimg.com^
+||a1.twimg.com^
+||a2.twimg.com^
+||a3.twimg.com^
+||abs.twimg.com^
+||abs-0.twimg.com^
+||abs-zero.twimg.com^
+||amp.twimg.com^
+||ea.twimg.com^
+||hca.twimg.com^
+||lv.twimg.com^
+||ma0.twimg.com^
+||ma1.twimg.com^
+||ma2.twimg.com^
+||ma3.twimg.com^
+||o.twimg.com^
+||oem.twimg.com^
+||p.twimg.com^
+||pbs.twimg.com^
+||pbs-cloudflare.twimg.com^
+||r.twimg.com^
+||s.twimg.com^
+||si0.twimg.com^
+||syndication.twimg.com^
+||syndication-o.twimg.com^
+||ton.twimg.com^
+||video.twimg.com^
+||video-cloudflare.twimg.com^
+||video-s.twimg.com^
+||widgets.twimg.com^
+||twitcount.com^
+||twitter.com^
+||w.uptolike.com^
+||vk.com^
+||weareher.com^
+||fbcallback.wechat.com^
+||weheartit.com^
+||whatsapp.com^
+||cdn.wibiya.com^
+||woobox.com^
+||wwwfacebook.com^
+||x.com^
+||xing-share.com^
+||cookiex.ngd.yahoo.com^
+||facebook.de^
+||instagram.de^
+||twitter.de^
+||facebook.design^
+||facebook.dk^
+||facebook.com.es^
+||facebook.es^
+||tiktokv.eu^
+||facebook.fr^
+||instagram.fr^
+||www.pinterest.fr^
+||fb.gg^
+||myjosh.in^
+||tiktok.in^
+||getbutton.io^
+||facebook.is^
+||facebook.it^
+||pin.it^
+||redd.it^
+||facebook.jp^
+||omt.shinobi.jp^
+||traq.li^
+||musical.ly^
+||fb.me^
+||m.me^
+||widgets-code.websta.me^
+||button-follow.zalo.me^
+||button-share.zalo.me^
+||facebook.com.mx^
+||facebook.mx^
+||fbcdn-creative-a.akamaihd.net^
+||fbcdn-photos-a.akamaihd.net^
+||fbcdn-photos-e-a.akamaihd.net^
+||fbcdn-profile-a.akamaihd.net^
+||fbcdn-sphotos-a.akamaihd.net^
+||fbcdn-sphotos-a-a.akamaihd.net^
+||fbcdn-sphotos-b-a.akamaihd.net^
+||fbcdn-sphotos-c-a.akamaihd.net^
+||fbcdn-sphotos-d-a.akamaihd.net^
+||fbcdn-sphotos-e-a.akamaihd.net^
+||fbcdn-sphotos-f-a.akamaihd.net^
+||fbcdn-sphotos-g-a.akamaihd.net^
+||fbcdn-sphotos-h-a.akamaihd.net^
+||fbcdn-video-a-a.akamaihd.net^
+||fbcdn-video-b-a.akamaihd.net^
+||fbcdn-video-c-a.akamaihd.net^
+||fbcdn-video-d-a.akamaihd.net^
+||fbcdn-video-e-a.akamaihd.net^
+||fbcdn-video-f-a.akamaihd.net^
+||fbcdn-video-g-a.akamaihd.net^
+||fbcdn-video-h-a.akamaihd.net^
+||fbcdn-video-i-a.akamaihd.net^
+||fbcdn-video-j-a.akamaihd.net^
+||fbcdn-video-k-a.akamaihd.net^
+||fbcdn-video-l-a.akamaihd.net^
+||fbcdn-video-m-a.akamaihd.net^
+||fbcdn-video-n-a.akamaihd.net^
+||fbcdn-video-o-a.akamaihd.net^
+||fbcdn-video-p-a.akamaihd.net^
+||fbcdn-vthumb-a.akamaihd.net^
+||fbexternal-a.akamaihd.net^
+||fbstatic-a.akamaihd.net^
+||instagramstatic-a.akamaihd.net^
+||p16-tiktokcdn-com.akamaized.net^
+||v16-tiktokcdn-com.akamaized.net^
+||gts.byteoversea.net^
+||sgali3.l.byteoversea.net^
+||tiktok-lb-alisg.byteoversea.net^
+||tiktok-lb-maliva.byteoversea.net^
+||tiktok-platform-lb-alisg.byteoversea.net^
+||tiktok-platform-lb-maliva.byteoversea.net^
+||i.pinimg.com.edgekey.net^
+||s.pinimg.com.edgekey.net^
+||v.pinimg.com.edgekey.net^
+||www.pinterest.com.edgekey.net^
+||log-va.tiktokv.com.edgekey.net^
+||gecko-va.tiktokv.com.edgesuite.net^
+||log.tiktokv.com.edgesuite.net^
+||mon.tiktokv.com.edgesuite.net^
+||mon-va.tiktokv.com.edgesuite.net^
+||xlog.tiktokv.com.edgesuite.net^
+||facebook.net^
+||prod.pinterest.global.map.fastly.net^
+||dualstack.pinterest.map.fastly.net^
+||reddit.map.fastly.net^
+||platform.twitter.map.fastly.net^
+||twimg.twitter.map.fastly.net^
+||video.twitter.map.fastly.net^
+||fbcdn.net^
+||fbstatic.net^
+||instagram.net^
+||jtvnw.net^
+||live-video.net^
+||mailget.net^
+||quoracdn.net^
+||ae0.pr01.ams2.tfbnw.net^
+||ae12.pr01.ams2.tfbnw.net^
+||ae13.pr01.ams2.tfbnw.net^
+||ae0.pr01.ams3.tfbnw.net^
+||ae12.pr01.ams3.tfbnw.net^
+||ae10.bb01.atl1.tfbnw.net^
+||ae10.bb02.atl1.tfbnw.net^
+||ae10.pr02.atl1.tfbnw.net^
+||ae0.bb01.bos2.tfbnw.net^
+||ae0.bb02.bos2.tfbnw.net^
+||ae11.pr01.dfw1.tfbnw.net^
+||ae0.pr01.fra2.tfbnw.net^
+||ae0.pr02.fra2.tfbnw.net^
+||ae10.pr02.fra2.tfbnw.net^
+||ae10.bb02.hkg1.tfbnw.net^
+||ae11.pr01.hkg1.tfbnw.net^
+||ae13.pr01.hkg1.tfbnw.net^
+||ae0.pr02.iad3.tfbnw.net^
+||ae0.pr02.lga1.tfbnw.net^
+||ae10.bb01.mia1.tfbnw.net^
+||ae13.bb01.mia1.tfbnw.net^
+||ae13.bb02.mia1.tfbnw.net^
+||ae10.bb03.sjc1.tfbnw.net^
+||ae11.bb03.sjc1.tfbnw.net^
+||ae0.pr03.sjc1.tfbnw.net^
+||ae0.pr04.sjc1.tfbnw.net^
+||vpn.tfbnw.net^
+||threads.net^
+||tiktokcdn-eu.net^
+||ttoversea.net^
+||ttoverseaus.net^
+||ttvnw.net^
+||twitch-shadow.net^
+||twitchcdn.net^
+||twitchcdn-shadow.net^
+||twitchsvc.net^
+||whatsapp.net^
+||share.yandex.net^
+||facebook.nl^
+||facebook.no^
+||amp-reddit-com.cdn.ampproject.org^
+||facebook.org^
+||internet.org^
+||tiktok.org^
+||tiktokd.org^
+||facebook.pl^
+||watchdog.energized.pro^
+||usocial.pro^
+||instagram.astv.ru^
+||facebook.ru^
+||mediabuttons.ru^
+||share.yandex.ru^
+||facebook.se^
+||mastodon.social^
+||share.itraffic.su^
+||twitchsvc-staging.tech^
+||bigolive.tv^
+||ext-twitch.tv^
+||twitch.tv^
+||facebook.us^
+||tiktokv.us^
+||tiktokw.us^
+||likee.video^
+||facebook.com.vn^
+||xn--r1a.website^
+||facebook.co.za^

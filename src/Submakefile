@@ -1,0 +1,13 @@
+SRC_DIR_SOURCE := main.c \
+				  adbplus.c \
+				  carry_over.c \
+				  domain.c \
+				  domaintree.c \
+				  inputargs.c \
+				  pfb_differ.c \
+				  pfb_prune.c \
+				  rw_pfb_csv.c \
+				  tld_context.c \
+				  tld_hash_context.c \
+
+SRC += $(addprefix src/, $(SRC_DIR_SOURCE))
